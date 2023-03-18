@@ -36,7 +36,7 @@ e em seguida abra `[3] Builder.bat`
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1086761124478861403/1086792900714692708/image.png"></img>
  
  
-##  Configuração Manuaç:
+##  Configuração Manual:
  
 Primeiro cole e salve seu webhook em `"WEBHOOK HERE"` em Lofy.py
 
