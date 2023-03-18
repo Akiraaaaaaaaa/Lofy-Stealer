@@ -33,7 +33,7 @@ Abra primeiro `[2] Instalador.bat` (Caso não tenho o python abra [1] Instalador
 
 e em seguida abra `[3] Builder.bat`
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1086761124478861403/1086792900714692708/image.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1062903395041677343/1086800122131779625/image.png"></img>
  
  
 ##  Configuração Manual:
@@ -52,7 +52,7 @@ E depois de instalado `python -m auto_py_to_exe`
 
 Procurar arquivo Selecionar `Um arquivo é baseado no Windows (ocultar o console)`
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1086761124478861403/1086795105068908665/pyy.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1062903395041677343/1086800455012716544/pyy.png"></img>
 
 E clique em `Convert .py to .exe`
 
